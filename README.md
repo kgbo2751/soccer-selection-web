@@ -1,3 +1,5 @@
+Visual Studio Code (IDE) + HTML/CSS/JavaScript (Frontend) + React (Frontend - Library) + Express.js (Backend) + Node.js (Backend - Runtime Environment) + MongoDB Atlas (DataBase, NoSQL) + Github Actions (DevOps, CI) + Vercel (DevOps, Deployment, CD)
+
 <img width="1919" height="1033" alt="구조" src="https://github.com/user-attachments/assets/43247fdf-175b-4223-add8-607a48b8a8b8" />><br>
 
 MongoDB Atlas<br>
