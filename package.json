@@ -1,0 +1,22 @@
+{
+  "name": "soccer-selection-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "client": "npm start --prefix client",
+    "build": "cd client && npm install && npm run build"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "dotenv": "^17.2.3"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
