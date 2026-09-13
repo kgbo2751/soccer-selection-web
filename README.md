@@ -18,3 +18,5 @@ CI - Automated Build & Check (자동 빌드 및 오류 검증), Git-Triggered Wo
 
 Vercel (DevOps, Deployment, CD)<br>
 CD - Production Deployment (운영 환경 자동 반영), Zero-Downtime Deployment (Zero-Downtime Deployment)<br>
+<img width="1913" height="977" alt="vercel" src="https://github.com/user-attachments/assets/a9ed8176-72c7-46c5-a4fc-ea6d2629e086" /><br>
+<img width="1912" height="1071" alt="vercel2" src="https://github.com/user-attachments/assets/a1f75b4d-cbe0-46f3-8372-abba70e7b191" />
