@@ -1,18 +1,20 @@
-Visual Studio Code (IDE) + HTML/CSS/JavaScript (Frontend) + React (Frontend - Library) + Express.js (Backend) + Node.js (Backend - Runtime Environment) + MongoDB Atlas (DataBase, NoSQL) + Github Actions (DevOps, CI) + Vercel (DevOps, Deployment, CD)
+Visual Studio Code (IDE) + HTML/CSS/JavaScript (Frontend) + React (Frontend - Library) + Express.js (Backend) + Node.js (Backend - Runtime Environment) + MongoDB Atlas (DataBase, NoSQL) + Github Actions (DevOps, CI) + Vercel (DevOps, Deployment, CD)<br>
+<img width="1920" height="1140" alt="코드" src="https://github.com/user-attachments/assets/a1b04aff-3b54-42f4-8fdb-5b8dfeefc103" /><br><br>
 
-<img width="1919" height="1033" alt="구조" src="https://github.com/user-attachments/assets/43247fdf-175b-4223-add8-607a48b8a8b8" />><br>
+Web<br>
+<img width="1918" height="976" alt="화면" src="https://github.com/user-attachments/assets/9b1a1ba0-14a2-45db-8ecd-35fc387033c8" /><br>
+<img width="1918" height="976" alt="화면2" src="https://github.com/user-attachments/assets/da750605-0bb2-4c42-aea4-f3122c6af88e" /><br>
+<img width="1917" height="982" alt="화면3" src="https://github.com/user-attachments/assets/e55fd043-49a2-450a-b88e-c0a0633378a6" /><br>
+<img width="1918" height="977" alt="회원가입" src="https://github.com/user-attachments/assets/77329d8d-b1b0-46f9-8a6d-d7c4876f0adc" /><br>
+<img width="1918" height="981" alt="로그인" src="https://github.com/user-attachments/assets/6f7079e2-3756-44f9-a148-44ff089fa331" /><br><br>
 
-MongoDB Atlas<br>
-<img width="1897" height="904" alt="mongodb atlas" src="https://github.com/user-attachments/assets/b32512e7-4744-4e87-9c1d-566dcaeb4cfa" /><br><br>
+MongoDB Atlas (DataBase, NoSQL)<br>
+<img width="1918" height="972" alt="db" src="https://github.com/user-attachments/assets/36d362ef-4568-41ad-9dbc-b408d449ac7e" /><br>
+<img width="1918" height="977" alt="db2" src="https://github.com/user-attachments/assets/e80eb5a4-b389-4e46-b24c-de73ba524923" /><br>
 
-Vercel (Frontend)<br>
+Github Actions (DevOps, CI)<br><br>
 CI - Automated Build & Check (자동 빌드 및 오류 검증), Git-Triggered Workflow (Git 연동 자동화 트리거)<br>
+<img width="1920" height="1140" alt="github actions" src="https://github.com/user-attachments/assets/e6063ab0-4785-4131-b45e-fe3cd20493e1" /><br><br>
+
+Vercel (DevOps, Deployment, CD)<br>
 CD - Production Deployment (운영 환경 자동 반영), Zero-Downtime Deployment (Zero-Downtime Deployment)<br>
-<img width="1896" height="800" alt="vercel" src="https://github.com/user-attachments/assets/c3e9dd19-d3b0-468c-b61a-bb6581f649fa" /><br>
-<img width="1879" height="892" alt="vercel2" src="https://github.com/user-attachments/assets/20684ee3-2e21-4263-ac49-03dbaf162a1a" /><br><br>
-
-Vercel Mobile<br>
-<img width="1170" height="2532" alt="vercel 폰" src="https://github.com/user-attachments/assets/a383eb76-3852-4004-8d33-5821b1e30c77" /><br><br>
-
-Render (Backend, Not Working)<br>
-<img width="1913" height="986" alt="render" src="https://github.com/user-attachments/assets/1bb11c9c-2f6f-4251-907d-d5c34c791577" />
