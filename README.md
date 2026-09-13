@@ -12,7 +12,7 @@ MongoDB Atlas (DataBase, NoSQL)<br>
 <img width="1918" height="972" alt="db" src="https://github.com/user-attachments/assets/36d362ef-4568-41ad-9dbc-b408d449ac7e" /><br>
 <img width="1918" height="977" alt="db2" src="https://github.com/user-attachments/assets/e80eb5a4-b389-4e46-b24c-de73ba524923" /><br>
 
-Github Actions (DevOps, CI)<br><br>
+Github Actions (DevOps, CI)<br>
 CI - Automated Build & Check (자동 빌드 및 오류 검증), Git-Triggered Workflow (Git 연동 자동화 트리거)<br>
 <img width="1920" height="1140" alt="github actions" src="https://github.com/user-attachments/assets/e6063ab0-4785-4131-b45e-fe3cd20493e1" /><br><br>
 
